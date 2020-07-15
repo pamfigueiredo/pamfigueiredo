@@ -247,7 +247,8 @@ termos ou condições separados ou parar a distribuição do Material Licenciado
 momento; no entanto, tal não cessará esta Licença Pública.
 
 d. As Cláusulas 1, 5, 6, 7, e 8 continuarão em vigor após a cessação desta Licença Pública.
-Cláusula 7 – Outros Termos e Condições.
+
+> Cláusula 7 – Outros Termos e Condições.
 
     a. O Licenciante não estará vinculado a quaisquer termos ou condições, adicionais ou
        diferentes, comunicados por Você, salvo se expressamente acordado.
@@ -255,7 +256,7 @@ Cláusula 7 – Outros Termos e Condições.
        indicados aqui são separados e independentes dos termos e condições desta Licença
        Pública.
 
-Cláusula 8 – Interpretação.
+> Cláusula 8 – Interpretação.
 
 a. Para evitar dúvidas, esta Licença Pública não reduz, limita, restringe ou impõe condições
 sobre qualquer utilização do Material Licenciado que possa ser legalmente feita sem a
