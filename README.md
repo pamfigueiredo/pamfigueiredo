@@ -250,11 +250,11 @@ d. As Cláusulas 1, 5, 6, 7, e 8 continuarão em vigor após a cessação desta 
 
 > Cláusula 7 – Outros Termos e Condições.
 
-    a. O Licenciante não estará vinculado a quaisquer termos ou condições, adicionais ou
-       diferentes, comunicados por Você, salvo se expressamente acordado.
-    b. Quaisquer pactos, entendimentos ou acordos relativamente ao Material Licenciado não
-       indicados aqui são separados e independentes dos termos e condições desta Licença
-       Pública.
+a. O Licenciante não estará vinculado a quaisquer termos ou condições, adicionais ou
+diferentes, comunicados por Você, salvo se expressamente acordado.
+b. Quaisquer pactos, entendimentos ou acordos relativamente ao Material Licenciado não
+indicados aqui são separados e independentes dos termos e condições desta Licença
+Pública.
 
 > Cláusula 8 – Interpretação.
 
